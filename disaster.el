@@ -45,7 +45,7 @@
 ;;
 ;;     (add-to-list 'load-path "/PATH/TO/DISASTER")
 ;;     (require 'disaster)
-;;     (define-key c-mode-base-map (kbd "C-c d") 'disaster)
+;;     (define-key c-mode-map (kbd "C-c d") 'disaster)
 ;;
 
 ;;; Code:
